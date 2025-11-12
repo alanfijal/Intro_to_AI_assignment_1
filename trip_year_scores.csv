@@ -1,0 +1,75 @@
+trip_name,year,organization,global_satisfaction,budget_tier,global_sat_change,organization_change
+Art and Architecture in Barcelona,2020,6.9,6.2,A,,
+Art and Architecture in Barcelona,2021,8.4,7.9,A,1.7000000000000002,1.5
+Art and Architecture in Barcelona,2022,7.0,5.8,A,-2.1000000000000005,-1.4000000000000004
+Art and Architecture in Barcelona,2023,7.3,5.8,A,0.0,0.2999999999999998
+Beach Vacation in the Balearic Islands,2020,8.9,9.4,B,,
+Beach Vacation in the Balearic Islands,2023,7.0,6.9,C,-2.5,-1.9000000000000004
+"Castle Tour in Bavaria, Germany",2020,10.0,9.4,B,,
+"Castle Tour in Bavaria, Germany",2021,8.8,8.8,B,-0.5999999999999996,-1.1999999999999993
+"Castle Tour in Bavaria, Germany",2022,9.1,8.1,C,-0.7000000000000011,0.29999999999999893
+"Castle Tour in Bavaria, Germany",2023,9.3,10.0,B,1.9000000000000004,0.20000000000000107
+Cheese and Chocolate Tour in Switzerland,2020,6.8,6.9,B,,
+Cheese and Chocolate Tour in Switzerland,2021,7.2,7.0,B,0.09999999999999964,0.40000000000000036
+Cheese and Chocolate Tour in Switzerland,2022,8.0,7.1,B,0.09999999999999964,0.7999999999999998
+Cheese and Chocolate Tour in Switzerland,2023,9.0,8.8,B,1.700000000000001,1.0
+Countryside Escape in Tuscany,2020,7.5,7.7,B,,
+Countryside Escape in Tuscany,2021,5.4,4.8,B,-2.9000000000000004,-2.0999999999999996
+Countryside Escape in Tuscany,2022,3.8,2.9,B,-1.9,-1.6000000000000005
+Countryside Escape in Tuscany,2023,8.8,8.2,B,5.299999999999999,5.000000000000001
+Cultural Immersion in Prague,2020,7.7,8.6,B,,
+Cultural Immersion in Prague,2021,8.2,8.7,B,0.09999999999999964,0.4999999999999991
+Cultural Immersion in Prague,2022,6.8,8.4,B,-0.29999999999999893,-1.3999999999999995
+Cultural Immersion in Prague,2023,7.2,7.4,B,-1.0,0.40000000000000036
+Cycling Tour in the Pyrenees,2020,7.8,7.4,A,,
+Cycling Tour in the Pyrenees,2021,7.0,6.8,A,-0.6000000000000005,-0.7999999999999998
+Cycling Tour in the Pyrenees,2022,7.8,8.1,A,1.2999999999999998,0.7999999999999998
+Cycling Tour in the Pyrenees,2023,8.6,8.6,A,0.5,0.7999999999999998
+Forest Exploration in the Black Forest,2020,8.1,10.0,B,,
+Forest Exploration in the Black Forest,2021,9.6,9.3,C,-0.6999999999999993,1.5
+Forest Exploration in the Black Forest,2022,6.8,6.7,B,-2.6000000000000005,-2.8
+Forest Exploration in the Black Forest,2023,8.5,7.6,B,0.8999999999999995,1.7000000000000002
+Gourmet Tour of Italy,2020,7.0,5.7,B,,
+Gourmet Tour of Italy,2021,9.8,9.1,B,3.3999999999999995,2.8000000000000007
+Gourmet Tour of Italy,2022,9.9,10.0,B,0.9000000000000004,0.09999999999999964
+Gourmet Tour of Northern Italy,2021,7.1,7.5,B,,
+Gourmet Tour of Northern Italy,2023,8.4,7.5,B,0.0,1.3000000000000007
+Historical Tour of Rome,2020,8.5,7.0,D,,
+Kayaking in Costa Brava,2020,7.1,6.9,A,,
+Kayaking in Costa Brava,2021,8.6,8.5,A,1.5999999999999996,1.5
+Kayaking in Costa Brava,2022,7.7,7.1,A,-1.4000000000000004,-0.8999999999999995
+Kayaking in Costa Brava,2023,8.5,8.5,A,1.4000000000000004,0.7999999999999998
+Mediterranean Cruise from Spain to Italy,2020,8.5,7.5,C,,
+Mediterranean Cruise from Spain to Italy,2021,6.8,5.7,C,-1.7999999999999998,-1.7000000000000002
+Mediterranean Cruise from Spain to Italy,2022,7.6,8.1,C,2.3999999999999995,0.7999999999999998
+Mediterranean Cruise from Spain to Italy,2023,7.1,7.2,C,-0.8999999999999995,-0.5
+Mountain Hiking in the Swiss Alps,2020,6.2,5.3,B,,
+Mountain Hiking in the Swiss Alps,2021,8.6,6.7,B,1.4000000000000004,2.3999999999999995
+Mountain Hiking in the Swiss Alps,2022,9.5,6.3,B,-0.40000000000000036,0.9000000000000004
+Mountain Hiking in the Swiss Alps,2023,8.2,8.6,B,2.3,-1.3000000000000007
+Northern Lights in Finland,2020,7.0,5.7,D,,
+Northern Lights in Finland,2021,6.5,6.9,D,1.2000000000000002,-0.5
+Northern Lights in Finland,2022,5.7,6.9,D,0.0,-0.7999999999999998
+Northern Lights in Finland,2023,4.8,4.6,D,-2.3000000000000007,-0.9000000000000004
+Skiing in Andorra,2022,7.6,5.8,NONE,,
+Skiing in Andorra,2023,4.5,5.1,B,-0.7000000000000002,-3.0999999999999996
+Skiing in Northern Catalonia,2022,8.1,8.5,NONE,,
+Skiing in Northern Catalonia,2023,9.7,9.0,B,0.5,1.5999999999999996
+Skiing in Southern France,2022,9.0,8.7,NONE,,
+Skiing in Southern France,2023,8.5,7.5,B,-1.1999999999999993,-0.5
+Spa Retreat in the Austrian Alps,2020,7.4,6.2,C,,
+Spa Retreat in the Austrian Alps,2021,8.5,9.2,C,2.999999999999999,1.0999999999999996
+Spa Retreat in the Austrian Alps,2022,7.5,7.2,C,-1.9999999999999991,-1.0
+Spa Retreat in the Austrian Alps,2023,6.8,7.0,C,-0.20000000000000018,-0.7000000000000002
+"Vineyard Tour in the Douro Valley, Portugal",2020,8.8,7.9,B,,
+"Vineyard Tour in the Douro Valley, Portugal",2021,9.0,8.3,B,0.40000000000000036,0.1999999999999993
+"Vineyard Tour in the Douro Valley, Portugal",2022,7.9,7.8,C,-0.5000000000000009,-1.0999999999999996
+"Vineyard Tour in the Douro Valley, Portugal",2023,8.0,8.0,C,0.20000000000000018,0.09999999999999964
+Wildlife Watching in the Delta del Ebro,2020,9.4,9.2,A,,
+Wildlife Watching in the Delta del Ebro,2021,8.7,8.6,A,-0.5999999999999996,-0.7000000000000011
+Wildlife Watching in the Delta del Ebro,2022,8.4,7.0,A,-1.5999999999999996,-0.29999999999999893
+Wildlife Watching in the Delta del Ebro,2023,8.8,7.9,A,0.9000000000000004,0.40000000000000036
+"Wine and Dine in Bordeaux, France",2020,8.1,6.5,B,,
+"Wine and Dine in Bordeaux, France",2021,8.6,7.1,B,0.5999999999999996,0.5
+"Wine and Dine in Bordeaux, France",2022,8.4,7.3,B,0.20000000000000018,-0.1999999999999993
+"Wine and Dine in Bordeaux, France",2023,8.7,7.5,B,0.20000000000000018,0.29999999999999893
